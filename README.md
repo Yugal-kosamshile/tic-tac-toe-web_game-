@@ -25,4 +25,5 @@ To play the game locally, follow these steps:
 
 ## Contributions
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
 ![Screenshot 2024-04-20 124606](https://github.com/Yugal-kosamshile/internship_task_4/assets/140834062/34ff08b0-8b82-4779-9da7-c0a12b0bf923)
